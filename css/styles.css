@@ -4,13 +4,39 @@ h1{
 }
 body{
     background-color: cadetblue;
+    margin-right: 800px;
+    margin-left: 10px;
 }
 img{
     float: right;
     height: 300px;
     width: 300px;
+    border-radius: 4cm;
 }
 .column{
     width: 350px;
-    float: left;
+    float: inline-end;
+    font-size: x-large;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    padding: auto;
+}
+.par1{
+    margin-left: 2px;margin-right: 100px;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, seriff;
+    font-weight: 100;
+}
+#hh{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+#pp{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.li{
+    font-style: italic;
+    font-weight: bold;
 }
