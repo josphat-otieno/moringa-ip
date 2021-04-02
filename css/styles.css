@@ -5,8 +5,9 @@ h1{
 }
 body{
     background-color: cadetblue;
-    margin-right: 700px;
-    margin-left: 100px;
+    margin-right: 600px;
+    margin-left: 200px;
+    border: 1px solid wheat;
 }
 img{
     float: right;
@@ -21,6 +22,7 @@ img{
     font-style: normal;
     font-family: 'Times New Roman', Times, serif;
     padding: auto;
+    border: 2px solid black; 
 }
 .par1{
     margin-left: 2px;margin-right: 100px;
@@ -43,8 +45,13 @@ img{
 }
 nav {
     width: 30%;
-    height: 100px;
+    height: 70px;
     padding: 20px;
+  }
+  
+  nav ul{
+      font-size: x-large;
+      font-family: 'Times New Roman', Times, serif;
   }
   .profile{
       border: 2px solid black;
