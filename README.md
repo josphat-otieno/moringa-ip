@@ -9,4 +9,13 @@ Please feel free to reach me on 0717878813 for much more information.
 1. HTML
 2. CSS
 3. GIT
+## prerequisites
+You need to have git installed on your machine. You can install it with the following command in the terminal
+`$ sudo apt install git-all`
+# Setup
+You can use the following steps to access this project on you machine:
+1. Open your terminal and use this command to clone `$ git clone [remote url]
+2. This will clone the repository into your local machine.
 ##
+
+
