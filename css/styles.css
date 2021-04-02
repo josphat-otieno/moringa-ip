@@ -1,11 +1,12 @@
 h1{
     background-color: blue;
     padding: 50px;
+    text-align: center;
 }
 body{
     background-color: cadetblue;
-    margin-right: 800px;
-    margin-left: 10px;
+    margin-right: 700px;
+    margin-left: 100px;
 }
 img{
     float: right;
@@ -40,3 +41,50 @@ img{
     font-style: italic;
     font-weight: bold;
 }
+nav {
+    width: 30%;
+    height: 100px;
+    padding: 20px;
+  }
+  .profile{
+      border: 2px solid black;
+      font-size: x-large;
+      font-family: 'Times New Roman', Times, serif;
+      padding-left: 20px;
+      
+  }
+  .skill{
+    border: 2px solid black;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 20px;
+    
+  }
+  .work{
+    border: 2px solid black;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 20px;
+    
+  }
+  .career{
+    border: 2px solid black;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 20px;
+    
+  }
+  .education{
+    border: 2px solid black;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 20px;
+    
+  }
+  .hobbies{
+    border: 2px solid black;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 20px;
+    
+  }
