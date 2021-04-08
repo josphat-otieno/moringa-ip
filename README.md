@@ -14,7 +14,7 @@ You need to have git installed on your machine. You can install it with the foll
 `$ sudo apt install git-all`
 # Setup
 You can use the following steps to access this project on you machine:
-1. Open your terminal and use this command to clone `$ git clone [remote url]`
+1. Open your terminal and use this command to clone `$ git clone https://github.com/josphat-otieno/moringa-ip.git`
 2. This will clone the repository into your local machine.
 ##
 
